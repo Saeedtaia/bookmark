@@ -26,6 +26,9 @@ h1::before{
 .h1:hover h1::before{
     height: 70%;
 }
+.h1{
+    width: fit-content;
+}
 #siteName:focus,#siteLink:focus{
     outline:solid 4px #FEC260 !important;
 }
